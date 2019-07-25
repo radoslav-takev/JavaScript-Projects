@@ -7,3 +7,4 @@ Projects:
 3. js-budget-setup - budget app which tracks budget(income) and expenses, based on https://www.youtube.com/watch?v=m_HJ3juuFvo
 4. tic-tac-toe - single-player game against a computer, based on https://www.youtube.com/watch?v=P2TcQ3h0ipQ
 5. js-cart-setup-master - basic shopping cart - only adding items to the cart and calculating the total amount of the cart, based on https://www.youtube.com/watch?v=q_TZhCWbS3I
+6. simon-game - based on https://www.youtube.com/watch?v=n_ec3eowFLQ
